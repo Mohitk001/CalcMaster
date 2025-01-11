@@ -45,3 +45,4 @@ Contributions are welcome! To contribute:
 This project is licensed under the **MIT License**.
 
 # scientific-calculator
+# CalcMaster
